@@ -4,7 +4,7 @@
 
 <h3>Neha Mahana works!!!!</h3>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 / 99 85 29 66 77</h2>
+  <h2> Call Us : + 8847835192</h2>
   
   <h3> Ofc Location : Ameerpet, Hyderbad </h3>
   
